@@ -1,0 +1,30 @@
+.box1{
+    height: 100px;
+    width: 50px;
+    background-color: rgb(8, 7, 7);
+    border: solid black;
+}
+.box2{
+    height: 21px;
+    width: 30px;
+    border-radius: 50%;
+    background-color: rgb(255, 0, 0);
+    margin: 10px;
+}
+
+.box3{
+    text-align: center;
+    height: 21px;
+    width: 30px;
+    border-radius: 50%;
+    background-color: rgb(0, 255, 0);
+margin: 10px;
+}
+.box4{
+    text-align: center;
+    height: 20px;
+    width: 30px;
+    border-radius: 50%;
+    background-color: rgb(0, 0, 255);
+margin: 10px;
+}
